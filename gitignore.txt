@@ -1,1 +1,8 @@
 /.classpath
+/.settings
+/.gradle
+/gradle
+/build.gradle
+/gradlew
+/README.md
+/settings.gradle
